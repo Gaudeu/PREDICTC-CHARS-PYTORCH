@@ -1,1 +1,0 @@
-neste venv ja temos torch torchvision matplotlib
